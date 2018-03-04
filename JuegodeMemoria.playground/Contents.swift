@@ -2,9 +2,6 @@
 
 import UIKit
 
-var numero = 100
-var i = 0
-
 for i in 0...100  {
     
     //divisible entre 5
